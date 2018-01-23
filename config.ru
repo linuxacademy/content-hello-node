@@ -3,6 +3,6 @@ require 'bundler'
 
 Bundler.require
 
-require './app.rv'
+require './app.rb'
 
 run Sinatra::Application
