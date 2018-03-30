@@ -1,0 +1,6 @@
+applications:
+- name: key-node
+  disk_quota: 256M
+  instances: 1
+  memory: 256M
+  random-route: true
