@@ -21,9 +21,5 @@
   "bugs": {
     "url": "https://github.com/rivethead42/hello-node/issues"
   },
-  "homepage": "https://github.com/rivethead42/hello-node#readme",
-  "engines": {
-    "node": "8.15",
-    "npm": "5.6.0"
-  }
+  "homepage": "https://github.com/rivethead42/hello-node#readme"
 }
