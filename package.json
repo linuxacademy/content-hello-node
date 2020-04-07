@@ -4,7 +4,7 @@
   "description": "A simple NodeJS app.",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.16.2",
+    "express": "^4.4.17.1",
     "package.json": "^2.0.1"
   },
   "devDependencies": {},
